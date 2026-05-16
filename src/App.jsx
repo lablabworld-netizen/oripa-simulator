@@ -323,6 +323,14 @@ export default function App() {
       padding: "20px 14px", maxWidth: 480, margin: "0 auto",
       boxSizing: "border-box",
     }}>
+      <div style={{ textAlign: "center", marginBottom: 16 }}>
+        <div style={{ fontSize: 10, color: "#bbb", marginBottom: 6 }}>PR</div>
+        <a href="https://px.a8.net/svt/ejp?a8mat=4B3RV5+34IYVU+4ATM+NUES1" rel="nofollow">
+          <img border="0" width="300" height="250" alt="" src="https://www25.a8.net/svt/bgt?aid=260516561189&wid=002&eno=01&mid=s00000020065004005000&mc=1" style={{ borderRadius: 8, maxWidth: "100%" }} />
+        </a>
+        <img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B3RV5+34IYVU+4ATM+NUES1" alt="" />
+      </div>
+
       <div style={{ textAlign: "center", marginBottom: 24 }}>
         <div style={{ fontSize: 10, letterSpacing: 4, color: "#f59e0b", marginBottom: 6, fontWeight: 700 }}>ORIPA SIMULATOR</div>
         <h1 style={{
@@ -353,8 +361,19 @@ export default function App() {
         </div>
       )}
 
-      <div style={{ textAlign: "center", marginTop: 28, color: "#ddd", fontSize: 10 }}>
+      <div style={{ textAlign: "center", marginTop: 28, color: "#aaa", fontSize: 10 }}>
         1等までの期待費用が低い順にランキング · コインレート1:1で計算
+      </div>
+      <div style={{ textAlign: "center", marginTop: 24 }}>
+        <div style={{ fontSize: 10, color: "#bbb", marginBottom: 6 }}>PR</div>
+        <a href="https://px.a8.net/svt/ejp?a8mat=4B3RV5+34IYVU+4ATM+NUES1" rel="nofollow">
+          <img border="0" width="300" height="250" alt="" src="https://www25.a8.net/svt/bgt?aid=260516561189&wid=002&eno=01&mid=s00000020065004005000&mc=1" style={{ borderRadius: 8, maxWidth: "100%" }} />
+        </a>
+        <img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B3RV5+34IYVU+4ATM+NUES1" alt="" />
+      </div>
+
+      <div style={{ textAlign: "center", marginTop: 8, marginBottom: 16, color: "#bbb", fontSize: 10 }}>
+        ※本サイトはアフィリエイト広告を掲載しています
       </div>
     </div>
   );
